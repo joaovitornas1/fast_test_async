@@ -1,0 +1,7 @@
+layout split
+cd ~/Learning/Eduardo_Mendes/FastAPI_test/fast_test_async
+
+new_tab Run
+cd ~/Learning/Eduardo_Mendes/FastAPI_test/fast_test_async
+poetry shell
+
