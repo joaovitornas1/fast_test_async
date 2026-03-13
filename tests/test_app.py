@@ -1,4 +1,6 @@
+# pyright: basic
 from http import HTTPStatus
+
 
 
 def test_root_should_return_hello(client):
